@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋, I'm Yash Alkeshkumar Patel!  
 
-<!--
-**Yash6623/Yash6623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **Currently pursuing:**  
+Master of Science in Analytics and Systems at the University of Bridgeport (Sep 2024 – Sep 2026).  
 
-Here are some ideas to get you started:
+🎓 **Education:**  
+- Bachelor of Engineering in Information Technology (CGPA: 8.32/10)  
+  G H Patel College of Engineering & Technology (July 2020 – May 2024)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **Professional Experience:**   
+- **Internships:**  
+  - Tata Consultancy Services: Mobile app development using Power Apps and SharePoint.  
+  - Eastern Techno Solutions: Web development using PHP, SQL, JavaScript, and AngularJS.  
+
+💻 **Technical Skills:**  
+- **Programming Languages:** Python, Java, C, SQL, HTML/CSS, JavaScript, PHP.  
+- **Tools & Frameworks:** Power BI, AWS, Jira, MongoDB, NodeJS, NumPy, Pandas, PyTorch.  
+- **Specializations:** Machine Learning, Data Analysis, Cloud Computing, SharePoint workflows.  
+
+🚀 **Projects:**  
+1. **Project Finder Application**  
+   A collaboration platform built with Power Apps, Power Automate, and SharePoint.  
+2. **Mall Customer Segmentation**  
+   Analyzed purchasing behavior using Python and K-Means clustering.  
+3. **Movie Rating Website**  
+   Designed and implemented a fully functional website using HTML, CSS, JavaScript, and PHP.  
+
+🌟 **Interests:**  
+I'm passionate about cloud computing, AI/ML, Data Science, and creating innovative business solutions through technology.  
+
+📈 **Let's Connect!**  
+- [LinkedIn](https://www.linkedin.com/in/yashalkeshkumarpatel)  
+- [Portfolio](#) (Add your portfolio link if available!)  
+- [GitHub](https://github.com/<your-github-username>)  
+
+✨ **Fun Fact:**  
+I enjoy exploring new tech stacks and applying them to real-world challenges!  
