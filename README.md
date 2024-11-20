@@ -9,8 +9,8 @@ Master of Science in Analytics and Systems at the University of Bridgeport (Sep 
 
 💼 **Professional Experience:**   
 - **Internships:**  
-  - Tata Consultancy Services: Mobile app development using Power Apps and SharePoint.  
-  - Eastern Techno Solutions: Web development using PHP, SQL, JavaScript, and AngularJS.  
+  - Tata Consultancy Services: Mobile app development using Power Apps and SharePoint, Power Automate.  
+  - Eastern Techno Solutions: Web development using  HTML, CSS, JavaScript, SQL, and AngularJS.  
 
 💻 **Technical Skills:**  
 - **Programming Languages:** Python, Java, C, SQL, HTML/CSS, JavaScript, PHP.  
@@ -29,9 +29,8 @@ Master of Science in Analytics and Systems at the University of Bridgeport (Sep 
 I'm passionate about cloud computing, AI/ML, Data Science, and creating innovative business solutions through technology.  
 
 📈 **Let's Connect!**  
-- [LinkedIn](https://www.linkedin.com/in/yashalkeshkumarpatel)  
-- [Portfolio](#) (Add your portfolio link if available!)  
-- [GitHub](https://github.com/<your-github-username>)  
+- [LinkedIn](https://www.linkedin.com/in/yash-patel-8a4122210/)  
+- [GitHub](https://github.com/Yash6623)  
 
 ✨ **Fun Fact:**  
 I enjoy exploring new tech stacks and applying them to real-world challenges!  
